@@ -1,4 +1,8 @@
-# Legato 🎶 ⚙️
+# Legato
+
+<div style="text-align: center;">
+  <img src="https://github.com/open-actuator/.github/blob/main/assets/logo.svg" width="25%" height="25%" alt="open actuator logo" style="vertical-align: middle;">
+</div>
 
 **Legato** is an open-source, unified actuator SDK designed for robotic applications. Inspired by the musical term meaning "smoothly connected", Legato provides a seamless interface for controlling actuators from different manufacturers through a consistent and easy-to-use API.
 
